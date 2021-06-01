@@ -10,5 +10,4 @@ const mongoose = require('mongoose');
         uName: String,
         uSex : String
        });
-module.exports = dbConnect
-module.exports = nameSchema
+ module.exports = dbConnect
